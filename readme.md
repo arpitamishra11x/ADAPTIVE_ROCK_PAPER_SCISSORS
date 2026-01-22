@@ -1,4 +1,4 @@
-# 🎮 Adaptive Rock Paper Scissors
+# 🎮 Adaptive Rock Paper Scissors !!
 
 An intelligent Rock–Paper–Scissors game where the computer **learns from your behavior**.
 
@@ -9,7 +9,7 @@ Instead of random moves, the computer:
 
 ---
 
-## 🚀 Features
+## 🚀 Features !
 - Adaptive decision-making
 - Frequency-based prediction
 - Clean CLI interface
@@ -17,6 +17,6 @@ Instead of random moves, the computer:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run !
 ```bash
 python main.py
