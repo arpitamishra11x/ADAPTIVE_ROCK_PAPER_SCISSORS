@@ -17,6 +17,6 @@ Instead of random moves, the computer:
 
 ---
 
-## ▶️ How to Run !
+## ▶️ How to Run ...
 ```bash
 python main.py
